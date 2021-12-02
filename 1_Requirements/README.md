@@ -24,33 +24,33 @@ In this project, ultrasonic sensor with Arduino is used to determine the distanc
  - Cost effective. 
  - Maintenance is easy.
  
-### Weakness
- • Limited range.
+## Weakness
+ - Limited range.
  
-### Opportunities 
- Audio and camera can be used to make it advantageous
+## Opportunities 
+ - Audio and camera can be used to make it advantageous
  
-### Threats
-Incase high voltage occurs components may get damage.
+## Threats
+- Incase high voltage occurs components may get damage.
 
 # **4W's and 1H**
 
 ## Who
-Visual impaired person can use it for obstacle detection for assisantance example by implementing this system on white cane etc.
+- Visual impaired person can use it for obstacle detection for assisantance example by implementing this system on white cane etc.
 
 ## What 
-This system is used for measuring the distance between the object or obstacle as it provides accurate distance. 
+- This system is used for measuring the distance between the object or obstacle as it provides accurate distance. 
 
 ## When 
-This system isn used when we want to calculate the approxomate distance from a particular object inorder to avoid the obstacle.
+- This system isn used when we want to calculate the approxomate distance from a particular object inorder to avoid the obstacle.
 
 ## Where 
- System designed can be implemented in several applications, like obstacle detection, in industries, companies also has applications in robotics.
+ - System designed can be implemented in several applications, like obstacle detection, in industries, companies also has applications in robotics.
  
 ##  How
- As the ultrasonic sensor uses transmitter to transmit sound waves and oncethe transmitted wave  bounce back and is received by ultrasonic receiver. By using the reciver timing distance is calculated.
+ - As the ultrasonic sensor uses transmitter to transmit sound waves and oncethe transmitted wave  bounce back and is received by ultrasonic receiver. By using the reciver timing distance is calculated.
  
-## Details requirements
+## Detail requirements
 ### High Level Requirements
 
 | ID | Description | Status |
@@ -59,7 +59,7 @@ This system isn used when we want to calculate the approxomate distance from a p
 |HLR2  |System shall be able to calculate the distance in any given range | Implemented
 |HLR3  | System shall be able to modifying range according the position of object|	Implemented
 
-#### Low Level Requirements
+### Low Level Requirements
 
 | ID | Description | Status |
 |-------|------|------|
