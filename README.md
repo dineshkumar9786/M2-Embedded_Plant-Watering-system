@@ -1,4 +1,4 @@
-# M2_Embedded_Object-Detection
+# M2-Embedded_Object_Detection
 ## **Introduction**
 
 - The objective of the project is to design and implement an ultrasonic distance meter.
