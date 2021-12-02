@@ -19,7 +19,7 @@
 
 ## **Defining our System**
 
-In this project, ultrasonic sensor with Arduino is used to determine the distance of an obstacle from the sensor.The basic principle of ultrasonic distance measurement is based on ECHO. When sound waves are transmitted in the environment then waves return back to the origin as ECHO after striking on the obstacle. So we only need to calculate the traveling time of both sounds means outgoing time and returning time to origin after striking on the obstacle. As the speed of the sound is known to us, after calculations we are able to calculate the distance.
+- In this project, ultrasonic sensor with Arduino is used to determine the distance of an obstacle from the sensor.The basic principle of ultrasonic distance measurement is based on ECHO. When sound waves are transmitted in the environment then waves return back to the origin as ECHO after striking on the obstacle. So we only need to calculate the traveling time of both sounds means outgoing time and returning time to origin after striking on the obstacle. As the speed of the sound is known to us, after calculations we are able to calculate the distance.
 
 # SWOT ANALYSIS
 ## Strengths
