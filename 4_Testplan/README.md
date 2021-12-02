@@ -1,4 +1,4 @@
-# **Test Plans**
+# **Test Plan**
 
 ## High Level Test Cases
 | Test Id | Description | Expected output | Actual output | Pass/Fail(Result) |
