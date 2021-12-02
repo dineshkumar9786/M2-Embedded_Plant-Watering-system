@@ -1,1 +1,1 @@
-# M2-Embedded_Plant-Watering-system
+# M2-Embedded_Object_Detection
